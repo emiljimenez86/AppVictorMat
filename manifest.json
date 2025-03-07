@@ -1,6 +1,6 @@
 {
     "name": "Cursos de Matemáticas",
-    "short_name": "CursosMath",
+    "short_name": "Profe Victor",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
@@ -9,12 +9,12 @@
         {
             "src": "icon.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "./image/logo-profe-victor.png"
         },
         {
             "src": "icon.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "./image/logo-profe-victor.png"
         }
     ]
 }
